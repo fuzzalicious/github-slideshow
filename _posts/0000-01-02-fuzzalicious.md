@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Something witty and introspective.
+Awesome, isn't it???
 Use the left arrow to go back!
